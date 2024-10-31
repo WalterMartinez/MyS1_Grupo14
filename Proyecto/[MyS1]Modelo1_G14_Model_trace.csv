@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-11.8834261362191;--;--;--;--;The number of active entities in the simulation has exceeded 20,000 objects
-11.8834261362191;--;--;--;--;This may indicate that there is a logic problem in the model which is creating too many entities or is not destroying them. 
+0.529480378617901;Pallet.140;Separator1;105.OnEnteredProcessing;[UnBatch] DesiredSplitQuantity;Unable to get value of property 'UnBatch.MatchCondition'.
+0.529480378617901;Pallet.140;Separator1;105.OnEnteredProcessing;[UnBatch] DesiredSplitQuantity;Data type mismatch. Unable to convert value 'Perecederos' from type 'Element Reference' to type 'Number'.
 
